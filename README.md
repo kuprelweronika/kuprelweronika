@@ -4,22 +4,22 @@
 
 💪 Bachelor's Degree -  🎛 Acoustic Engineering🎚 💪 (my biggest hobby)
 
-    👉 I design your music recording studio or listening room. 
+    👉 I design music recording studio or listening room. 
 
-    👉 I record and edit/tune your recordings or podcasts. 
+    👉 I record and edit/tune recordings or podcasts. 
 
     👉 I am a calibration specialist for sound/vibration meters and calibrators.
     
 💪 Master's Degree - Electronics - Specialisation: Microsystems and Electronic Systems💪
 
-    👉I do the computer simulation of digital and analog devices.
+    👉I do computer simulation of digital and analog devices.
 
     👉I work with machine learning and neural networks. 
 
     👉I design and connect sensor networks.
 
 Finally....
-I am a frontend developer 💻
+As a frontend developer 💻
  
 Technologies:
  
@@ -37,7 +37,7 @@ Technologies:
 🧩 Tailwind, Bootstrap, Mantine, Angular Material
 
 
-Some courses on my degrees
+Some courses from my degree
 
 🧩 CSS, Python, Matlab, R, LabView
 
